@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maven-ects-servlet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="maven-ects-servlet.war">
+      <element id="artifact" artifact-name="maven-ects-servlet:war exploded" />
+    </root>
+  </artifact>
+</component>
